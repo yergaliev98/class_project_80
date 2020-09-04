@@ -29,20 +29,3 @@
     margin: 10% 0;
     width: 70%;
 }
-
-.under_block>a {
-    font-size: 16px;
-    background-color: #f5b316;
-    font-weight: bold;
-    color: #fff;
-    display: flex;
-    width: 160px;
-    height: 50px;
-    align-items: center;
-    justify-content: center;
-    transition: .5s;
-}
-
-.under_block>a:hover {
-    background-color: #282828;
-}
